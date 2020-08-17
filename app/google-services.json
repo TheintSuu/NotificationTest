@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570773126187",
+    "firebase_url": "https://cloudmsg-d4df5.firebaseio.com",
+    "project_id": "cloudmsg-d4df5",
+    "storage_bucket": "cloudmsg-d4df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570773126187:android:b9ce8cd82b33d6c3093e6e",
+        "android_client_info": {
+          "package_name": "com.theintsuhtwe.notificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570773126187-h48jv1d4ncd59e9n9pir5n8u2dd3hl43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theintsuhtwe.notificationtest",
+            "certificate_hash": "5177d58b02da415a7372dae5ae29591e2ab510a8"
+          }
+        },
+        {
+          "client_id": "570773126187-dr211mkc3kmahon3a5ckf2uk6d5v3p3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4ScvT2f_aYrd4d_LdGMZx9ipk23_udo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570773126187-dr211mkc3kmahon3a5ckf2uk6d5v3p3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
